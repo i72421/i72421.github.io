@@ -36,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-[Vit](https://github.com/i72421/i72421.github.io/blob/main/ViT.md)
+[Vit](https://github.com/i72421/i72421.github.io/blob/main/%E5%88%9B%E5%BB%BAgithub.io%E5%8D%9A%E5%AE%A2%20_%20%E7%82%B9%E7%82%B9%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.html)
