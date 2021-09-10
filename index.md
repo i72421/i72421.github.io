@@ -4,6 +4,6 @@
 
 
 
-- [Vision Transformer](https://i72421.github.io/ViT.html)
+- [Vision Transformer](https://i72421.github.io/ViT)
 
   
