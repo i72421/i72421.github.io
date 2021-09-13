@@ -1,6 +1,5 @@
 ---
 title: "Welcome to i72421 Blog"
-layout: home
 ---
 
 ## Articles
