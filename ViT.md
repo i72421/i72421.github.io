@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "Lcy blogs"
+title: "test title"
 ---
 # Vision Transformer
 Self-Attention ==> Transformer ==> Vision Transformer ==> Swin Transformer
