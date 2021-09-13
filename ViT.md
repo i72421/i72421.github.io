@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Vision Transformer"
 ---
 Self-Attention ==> Transformer ==> Vision Transformer ==> Swin Transformer
