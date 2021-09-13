@@ -1,7 +1,3 @@
----
-title: "Welcome to i72421 Blog"
----
-
 # Articles
 
 - [Vision Transformer](https://i72421.github.io/ViT)
