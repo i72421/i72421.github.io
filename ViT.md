@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Lcy blogs"
+---
 # Vision Transformer
 Self-Attention ==> Transformer ==> Vision Transformer ==> Swin Transformer
 
