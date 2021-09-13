@@ -1,5 +1,5 @@
 ---
-title: "test title"
+title: "Welcome to i72421 Blog"
 ---
 
 # Articles
