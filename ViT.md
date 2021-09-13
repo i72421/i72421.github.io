@@ -1,7 +1,6 @@
 ---
 title: "test title"
 ---
-# Vision Transformer
 Self-Attention ==> Transformer ==> Vision Transformer ==> Swin Transformer
 
 ## 相关论文列表
