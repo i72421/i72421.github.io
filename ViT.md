@@ -26,7 +26,7 @@ Self-Attention ==> Transformer ==> Vision Transformer ==> Swin Transformer
 
 **Structure**
 
-<img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9LbVhQS0ExOWdXaWJkVVNmUGZZS3doaWFlYk8wNXdGTEtWa1Y5dHdHdWQ5eUlZalRQaWJ6RG85aWFjZ1Q3UHhsQVZQaWNQUnY2OFJjcWhzQWZHbXJPOU1kaWI0US82NDA?x-oss-process=image/format,png" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/i72421/pic_bed/imgs/20210917/090707-487cef" style="zoom: 80%;" />
 
 
 
@@ -36,11 +36,11 @@ Self-Attention ==> Transformer ==> Vision Transformer ==> Swin Transformer
 
 **Overall Pipline**
 
-<img src="https://img-blog.csdnimg.cn/img_convert/0e3df6ee3f701f68e4bc87ca386cd6f1.png" alt=" " style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/i72421/pic_bed/imgs/20210917/090722-58c3ef.png" alt=" " style="zoom: 80%;" />
 
 **W-MSA & LeFF**
 
-<img src="https://img-blog.csdnimg.cn/img_convert/9c6e72d66c6c02719db9798715440740.png" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/i72421/pic_bed/imgs/20210917/090731-3aaed5.png" style="zoom: 80%;" />
 
 
 
@@ -50,7 +50,7 @@ Self-Attention ==> Transformer ==> Vision Transformer ==> Swin Transformer
 
 [JingyunLiang/SwinIR: SwinIR: Image Restoration Using Swin Transformer (github.com)](https://github.com/JingyunLiang/SwinIR)
 
-<img src="./imgs/ViT/swinir.png" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/i72421/pic_bed/imgs/20210917/090744-e09b0a.png" style="zoom:80%;" />
 
 
 
